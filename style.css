@@ -5,3 +5,15 @@
     width: 100vw;
     height: 100vh;
 }
+
+.header {
+    display:flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    gap: 5px;
+}
+
+.button {
+    box-shadow: none;
+    border-color: gray;
+}
